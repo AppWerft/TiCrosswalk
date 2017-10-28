@@ -14,7 +14,7 @@ architectures: armeabi-v7a x86
 
 # these should not be edited
 name: TiCrosswalk
-moduleid: com.universalavenue.ticrosswalk
+moduleid: ti.xwalk
 guid: 5af1ea1e-f0e4-4c4f-b71d-f448865806c4
 platform: android
 minsdk: 6.0.0.GA
