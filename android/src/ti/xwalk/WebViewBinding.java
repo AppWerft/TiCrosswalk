@@ -4,7 +4,7 @@
  * Licensed under the terms of the Apache Public License
  * Please see the LICENSE included with this distribution for details.
  */
-package com.universalavenue.ticrosswalk;
+package ti.xwalk;
 
 import java.io.BufferedReader;
 import java.io.IOException;

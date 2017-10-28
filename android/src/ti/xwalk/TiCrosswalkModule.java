@@ -6,7 +6,7 @@
  * Please see the LICENSE included with this distribution for details.
  *
  */
-package com.universalavenue.ticrosswalk;
+package ti.xwalk;
 
 import org.appcelerator.kroll.KrollModule;
 import org.appcelerator.kroll.annotations.Kroll;
@@ -18,12 +18,12 @@ import org.appcelerator.kroll.common.TiConfig;
 import org.xwalk.core.XWalkPreferences;
 import org.chromium.base.CommandLine;
 
-@Kroll.module(name="TiCrosswalk", id="com.universalavenue.ticrosswalk")
+@Kroll.module(name="TiCrosswalk", id="ti.xwalk")
 public class TiCrosswalkModule extends KrollModule
 {
 
 	// Standard Debugging variables
-	private static final String LCAT = "TiCrosswalkModule";
+	private static final String LCAT = "TiXwalkModule";
 	private static final boolean DBG = TiConfig.LOGD;
 	private static final String INIT_SWITCHES[] = { "Xwalk", "--disable-pull-to-refresh-effect"};
 

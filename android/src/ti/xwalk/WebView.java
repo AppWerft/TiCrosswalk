@@ -6,7 +6,7 @@
 	*
 	*/
 
-package com.universalavenue.ticrosswalk;
+package ti.xwalk;
 
 import java.io.BufferedReader;
 import java.io.IOException;
